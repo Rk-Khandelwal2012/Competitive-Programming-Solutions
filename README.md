@@ -17,8 +17,9 @@ This repository contains solutions to common problems in competitive programming
 - Java 
 
 ## Folder Structure
-- **Array**: Solutions to problems on LeetCode , Geeks for Geeks.
-- **Array Manipulation/**: Solutions to problems from Leetcode, Geeks for Geeks.
+- **Array**: Solutions to problems on LeetCode and Geeks for Geeks.
+- **Recursion Top 50 question**: Solutions to problems on Geeks for Geeks.
+- **Searching**: Solutions to problems on LeetCode and Geeks for Geeks.
 
 ## How to Contribute
 Contributions are welcome! Here’s how you can help:
